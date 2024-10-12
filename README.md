@@ -1,2 +1,1 @@
-My College Clone
-Using Bootstrap
+My College Clone Using html, css and Bootstrap
