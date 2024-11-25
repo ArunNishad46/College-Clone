@@ -1,1 +1,1 @@
-My College Clone Using html, css and Bootstrap
+My College Website Clone Using Bootstrap
